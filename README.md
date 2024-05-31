@@ -1,7 +1,7 @@
 # Data-Mining-Python
 Recent Data Mining coursework:  
 
-In "SP24_DM_Gabe_Wallon_Exam2B.ipynb", I  
+"SP24_DM_Gabe_Wallon_Exam2B.ipynb" was the final take-home exam from the semester. I create a data cleaning/preprocessing pipeline and apply several data analysis and modeling methods: outlier analysis, PCA, decision trees, logistic regression, parameter tuning, K-means clustering, and data visualization. 
 
 In "classification_models.ipynb", I use Decision trees, Logistic regression models, KNN models, and SVMs to classify credit card transactions as fraudulent. I also use these same models to predict whether a patient will develop diabetes. Then I compare the models. 
 
