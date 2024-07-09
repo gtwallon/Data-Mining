@@ -1,4 +1,4 @@
-# Data-Mining-Python
+# Data-Mining
 Recent Data Mining coursework:  
 
 "Data_Mining_Final.ipynb" was the final take-home exam from the semester. I create a data cleaning/preprocessing pipeline and apply several data analysis and modeling methods: outlier analysis, PCA, decision trees, logistic regression, parameter tuning, K-means clustering, and data visualization. 
