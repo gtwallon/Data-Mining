@@ -1,9 +1,9 @@
 # Data-Mining
 Recent Data Mining coursework:  
 
-"Data_Mining_Final.ipynb" was the final take-home exam from the semester. I create a data cleaning/preprocessing pipeline and apply several data analysis and modeling methods: outlier analysis, PCA, decision trees, logistic regression, parameter tuning, K-means clustering, and data visualization. 
+In "credit_card_fraud_classification.ipynb", I perform EDA, preprocessing, feature engineering, clustering, and I use Decision trees and Logistic regression models to classify credit card transactions as fraudulent.
 
-In "classification_models.ipynb", I use Decision trees, Logistic regression models, KNN models, and SVMs to classify credit card transactions as fraudulent. I also use these same models to predict whether a patient will develop diabetes. Then I compare the models. 
+"Data_Mining_Final.ipynb" was the final take-home exam from the semester. I create a data cleaning/preprocessing pipeline and apply several data analysis and modeling methods: outlier analysis, PCA, decision trees, logistic regression, parameter tuning, K-means clustering, and data visualization. 
 
 In "Decision_Tree_Titanic.ipynb", I build a decision tree classifier to predict survival of passengers on the Titanic.
 
